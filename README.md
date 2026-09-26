@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Engineering-Intelligence-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Engineering-Intelligence-Platform?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Engineering-Intelligence-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Engineering-Intelligence-Platform?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Engineering-Intelligence-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Engineering-Intelligence-Platform?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Engineering-Intelligence-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -108,134 +108,134 @@ The Global Engineering Intelligence & Value Stream Management (VSM) market is es
 
 ## 🔓 Open-Source GitHub Projects
 
-*All open-source repository listings are sorted descending by **GitHub Star Count** within their respective categories.* 🌟
+*All open-source repository listings are sorted descending by **GitHub Stars_Count** within their respective categories.* 🌟
 
 ### ⭐ Complete Engineering Intelligence Platforms
 
-* **[Apache DevLake](https://github.com/apache/devlake)** [![GitHub stars](https://img.shields.io/github/stars/apache/devlake?style=social&color=white)](https://github.com/apache/devlake/stargazers) 🌊  
+* **[Apache DevLake](https://github.com/apache/devlake)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/devlake?style=social&color=white)](https://github.com/apache/devlake/stargazers) 🌊  
   Open-source dev-data platform for ingesting, analyzing, and visualizing fragmented DevOps data across GitHub, GitLab, Jira, Jenkins, Bitbucket & SonarQube with out-of-the-box DORA dashboards.
 
-* **[GrimoireLab](https://github.com/chaoss/grimoirelab)** [![GitHub stars](https://img.shields.io/github/stars/chaoss/grimoirelab?style=social&color=white)](https://github.com/chaoss/grimoirelab/stargazers) 🧙‍♂️  
+* **[GrimoireLab](https://github.com/chaoss/grimoirelab)** [![GitHub_Stars](https://img.shields.io/github/stars/chaoss/grimoirelab?style=social&color=white)](https://github.com/chaoss/grimoirelab/stargazers) 🧙‍♂️  
   CHAOSS open-source software analytics platform for retrieving, enriching, identity-resolving, and visualizing dev community and repository metadata.
 
-* **[Propel](https://github.com/PropelReviews/Propel)** [![GitHub stars](https://img.shields.io/github/stars/PropelReviews/Propel?style=social&color=white)](https://github.com/PropelReviews/Propel/stargazers) 🚀  
+* **[Propel](https://github.com/PropelReviews/Propel)** [![GitHub_Stars](https://img.shields.io/github/stars/PropelReviews/Propel?style=social&color=white)](https://github.com/PropelReviews/Propel/stargazers) 🚀  
   Self-hostable developer performance analytics platform with transparent, inspectable SQL metrics connecting GitHub and Linear.
 
-* **[EngMetrics AI](https://github.com/engmetrics-ai/engmetrics-ai)** [![GitHub stars](https://img.shields.io/github/stars/engmetrics-ai/engmetrics-ai?style=social&color=white)](https://github.com/engmetrics-ai/engmetrics-ai/stargazers) 🤖  
+* **[EngMetrics AI](https://github.com/engmetrics-ai/engmetrics-ai)** [![GitHub_Stars](https://img.shields.io/github/stars/engmetrics-ai/engmetrics-ai?style=social&color=white)](https://github.com/engmetrics-ai/engmetrics-ai/stargazers) 🤖  
   Experimental open-source Engineering Intelligence dashboard correlating Jira, GitHub, and AI assistant telemetry into localized metrics.
 
-* **[DevTrack](https://github.com/Priyanshu-byte-coder/devtrack)** [![GitHub stars](https://img.shields.io/github/stars/Priyanshu-byte-coder/devtrack?style=social&color=white)](https://github.com/Priyanshu-byte-coder/devtrack/stargazers) 📈  
+* **[DevTrack](https://github.com/Priyanshu-byte-coder/devtrack)** [![GitHub_Stars](https://img.shields.io/github/stars/Priyanshu-byte-coder/devtrack?style=social&color=white)](https://github.com/Priyanshu-byte-coder/devtrack/stargazers) 📈  
   Self-hostable developer activity dashboard focusing on GitHub contributions, pull requests, streaks, and individual goals.
 
 ---
 
 ### 📊 Software Development Analytics Frameworks
 
-* **[CHAOSS Ecosystem](https://github.com/chaoss)** [![GitHub stars](https://img.shields.io/github/stars/chaoss/grimoirelab?style=social&color=white)](https://github.com/chaoss/grimoirelab/stargazers) 🏛️  
+* **[CHAOSS Ecosystem](https://github.com/chaoss)** [![GitHub_Stars](https://img.shields.io/github/stars/chaoss/grimoirelab?style=social&color=white)](https://github.com/chaoss/grimoirelab/stargazers) 🏛️  
   Community project standardizing open-source metrics, tooling, and health assessment frameworks for software development ecosystems.
 
-* **[GrimoireLab Perceval](https://github.com/chaoss/perceval)** [![GitHub stars](https://img.shields.io/github/stars/chaoss/perceval?style=social&color=white)](https://github.com/chaoss/perceval/stargazers) 🔍  
+* **[GrimoireLab Perceval](https://github.com/chaoss/perceval)** [![GitHub_Stars](https://img.shields.io/github/stars/chaoss/perceval?style=social&color=white)](https://github.com/chaoss/perceval/stargazers) 🔍  
   Open-source data retrieval engine fetching data from dozens of code repositories, bug trackers, and communication channels.
 
-* **[GrimoireLab SortingHat](https://github.com/chaoss/grimoirelab-sortinghat)** [![GitHub stars](https://img.shields.io/github/stars/chaoss/grimoirelab-sortinghat?style=social&color=white)](https://github.com/chaoss/grimoirelab-sortinghat/stargazers) 🎩  
+* **[GrimoireLab SortingHat](https://github.com/chaoss/grimoirelab-sortinghat)** [![GitHub_Stars](https://img.shields.io/github/stars/chaoss/grimoirelab-sortinghat?style=social&color=white)](https://github.com/chaoss/grimoirelab-sortinghat/stargazers) 🎩  
   Developer identity management engine for consolidating user identities across Git, Jira, Slack, and mail lists.
 
-* **[CollectOSS](https://github.com/chaoss/CollectOSS)** [![GitHub stars](https://img.shields.io/github/stars/chaoss/CollectOSS?style=social&color=white)](https://github.com/chaoss/CollectOSS/stargazers) 📦  
+* **[CollectOSS](https://github.com/chaoss/CollectOSS)** [![GitHub_Stars](https://img.shields.io/github/stars/chaoss/CollectOSS?style=social&color=white)](https://github.com/chaoss/CollectOSS/stargazers) 📦  
   Successor project to CHAOSS Augur for high-throughput metrics collection from open-source project repositories.
 
 ---
 
 ### ⚡ DORA & DevOps Telemetry
 
-* **[Jenkins](https://github.com/jenkinsci/jenkins)** [![GitHub stars](https://img.shields.io/github/stars/jenkinsci/jenkins?style=social&color=white)](https://github.com/jenkinsci/jenkins/stargazers) 🏗️  
+* **[Jenkins](https://github.com/jenkinsci/jenkins)** [![GitHub_Stars](https://img.shields.io/github/stars/jenkinsci/jenkins?style=social&color=white)](https://github.com/jenkinsci/jenkins/stargazers) 🏗️  
   Open-source automation server generating rich CI/CD pipeline telemetry for DORA deployment frequency and build failure analysis.
 
-* **[Argo CD](https://github.com/argoproj/argo-cd)** [![GitHub stars](https://img.shields.io/github/stars/argoproj/argo-cd?style=social&color=white)](https://github.com/argoproj/argo-cd/stargazers) 🐙  
+* **[Argo CD](https://github.com/argoproj/argo-cd)** [![GitHub_Stars](https://img.shields.io/github/stars/argoproj/argo-cd?style=social&color=white)](https://github.com/argoproj/argo-cd/stargazers) 🐙  
   Declarative GitOps continuous delivery tool whose events provide deployment frequency and lead time data.
 
-* **[OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector)** [![GitHub stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-collector/stargazers) 📡  
+* **[OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector)** [![GitHub_Stars](https://img.shields.io/github/stars/open-telemetry/opentelemetry-collector?style=social&color=white)](https://github.com/open-telemetry/opentelemetry-collector/stargazers) 📡  
   Vendor-agnostic proxy collecting engineering pipeline traces, metrics, and logs across build tools.
 
-* **[Keptn](https://github.com/keptn/keptn)** [![GitHub stars](https://img.shields.io/github/stars/keptn/keptn?style=social&color=white)](https://github.com/keptn/keptn/stargazers) 🛡️  
+* **[Keptn](https://github.com/keptn/keptn)** [![GitHub_Stars](https://img.shields.io/github/stars/keptn/keptn?style=social&color=white)](https://github.com/keptn/keptn/stargazers) 🛡️  
   Cloud-native application lifecycle orchestration providing delivery quality gate metrics.
 
-* **[Tekton Pipelines](https://github.com/tektoncd/pipeline)** [![GitHub stars](https://img.shields.io/github/stars/tektoncd/pipeline?style=social&color=white)](https://github.com/tektoncd/pipeline/stargazers) 🧱  
+* **[Tekton Pipelines](https://github.com/tektoncd/pipeline)** [![GitHub_Stars](https://img.shields.io/github/stars/tektoncd/pipeline?style=social&color=white)](https://github.com/tektoncd/pipeline/stargazers) 🧱  
   Kubernetes-native CI/CD framework emitting structured step telemetry.
 
-* **[DevOpsMetrics](https://github.com/DevOpsMetrics/DevOpsMetrics)** [![GitHub stars](https://img.shields.io/github/stars/DevOpsMetrics/DevOpsMetrics?style=social&color=white)](https://github.com/DevOpsMetrics/DevOpsMetrics/stargazers) 📊  
+* **[DevOpsMetrics](https://github.com/DevOpsMetrics/DevOpsMetrics)** [![GitHub_Stars](https://img.shields.io/github/stars/DevOpsMetrics/DevOpsMetrics?style=social&color=white)](https://github.com/DevOpsMetrics/DevOpsMetrics/stargazers) 📊  
   Open-source utility for gathering DORA metrics from GitHub Actions and Azure DevOps.
 
 ---
 
 ### 🚀 Developer Productivity & Metrics
 
-* **[GitHub Readme Stats](https://github.com/anuraghaziz/github-readme-stats)** [![GitHub stars](https://img.shields.io/github/stars/anuraghaziz/github-readme-stats?style=social&color=white)](https://github.com/anuraghaziz/github-readme-stats/stargazers) 🖼️  
+* **[GitHub Readme Stats](https://github.com/anuraghaziz/github-readme-stats)** [![GitHub_Stars](https://img.shields.io/github/stars/anuraghaziz/github-readme-stats?style=social&color=white)](https://github.com/anuraghaziz/github-readme-stats/stargazers) 🖼️  
   Dynamically generated stats cards for GitHub developer profiles and commit activity.
 
-* **[scc (Sloc, Cloc and Code)](https://github.com/boyter/scc)** [![GitHub stars](https://img.shields.io/github/stars/boyter/scc?style=social&color=white)](https://github.com/boyter/scc/stargazers) ⚡  
+* **[scc (Sloc, Cloc and Code)](https://github.com/boyter/scc)** [![GitHub_Stars](https://img.shields.io/github/stars/boyter/scc?style=social&color=white)](https://github.com/boyter/scc/stargazers) ⚡  
   Blazingly fast code counter and complexity estimator written in Go.
 
-* **[git-quick-stats](https://github.com/arzzen/git-quick-stats)** [![GitHub stars](https://img.shields.io/github/stars/arzzen/git-quick-stats?style=social&color=white)](https://github.com/arzzen/git-quick-stats/stargazers) ⏱️  
+* **[git-quick-stats](https://github.com/arzzen/git-quick-stats)** [![GitHub_Stars](https://img.shields.io/github/stars/arzzen/git-quick-stats?style=social&color=white)](https://github.com/arzzen/git-quick-stats/stargazers) ⏱️  
   CLI script for quick git repo analytics, commit graphs, and developer throughput summary.
 
-* **[git-of-theseus](https://github.com/erikbern/git-of-theseus)** [![GitHub stars](https://img.shields.io/github/stars/erikbern/git-of-theseus?style=social&color=white)](https://github.com/erikbern/git-of-theseus/stargazers) 🧬  
+* **[git-of-theseus](https://github.com/erikbern/git-of-theseus)** [![GitHub_Stars](https://img.shields.io/github/stars/erikbern/git-of-theseus?style=social&color=white)](https://github.com/erikbern/git-of-theseus/stargazers) 🧬  
   Tool for analyzing codebase evolution, code survival rate, and developer contribution longevity over time.
 
 ---
 
 ### 🔍 Code & Repository Analytics
 
-* **[SonarQube Community](https://github.com/SonarSource/sonarqube)** [![GitHub stars](https://img.shields.io/github/stars/SonarSource/sonarqube?style=social&color=white)](https://github.com/SonarSource/sonarqube/stargazers) 🧼  
+* **[SonarQube Community](https://github.com/SonarSource/sonarqube)** [![GitHub_Stars](https://img.shields.io/github/stars/SonarSource/sonarqube?style=social&color=white)](https://github.com/SonarSource/sonarqube/stargazers) 🧼  
   Open-source static code inspection platform measuring code quality, vulnerabilities, bugs, and technical debt.
 
-* **[Semgrep](https://github.com/semgrep/semgrep)** [![GitHub stars](https://img.shields.io/github/stars/semgrep/semgrep?style=social&color=white)](https://github.com/semgrep/semgrep/stargazers) 🎯  
+* **[Semgrep](https://github.com/semgrep/semgrep)** [![GitHub_Stars](https://img.shields.io/github/stars/semgrep/semgrep?style=social&color=white)](https://github.com/semgrep/semgrep/stargazers) 🎯  
   Fast, lightweight static analysis engine for code patterns, security scanning, and quality rules.
 
-* **[cloc (Count Lines of Code)](https://github.com/AlDanial/cloc)** [![GitHub stars](https://img.shields.io/github/stars/AlDanial/cloc?style=social&color=white)](https://github.com/AlDanial/cloc/stargazers) 🧮  
+* **[cloc (Count Lines of Code)](https://github.com/AlDanial/cloc)** [![GitHub_Stars](https://img.shields.io/github/stars/AlDanial/cloc?style=social&color=white)](https://github.com/AlDanial/cloc/stargazers) 🧮  
   Classic multi-language source code counter computing physical lines of code, comments, and blank lines.
 
-* **[PMD](https://github.com/pmd/pmd)** [![GitHub stars](https://img.shields.io/github/stars/pmd/pmd?style=social&color=white)](https://github.com/pmd/pmd/stargazers) 🩺  
+* **[PMD](https://github.com/pmd/pmd)** [![GitHub_Stars](https://img.shields.io/github/stars/pmd/pmd?style=social&color=white)](https://github.com/pmd/pmd/stargazers) 🩺  
   Extensible cross-language static code analyzer evaluating rule violations and complexity.
 
-* **[Lizard](https://github.com/terryyin/lizard)** [![GitHub stars](https://img.shields.io/github/stars/terryyin/lizard?style=social&color=white)](https://github.com/terryyin/lizard/stargazers) 🦎  
+* **[Lizard](https://github.com/terryyin/lizard)** [![GitHub_Stars](https://img.shields.io/github/stars/terryyin/lizard?style=social&color=white)](https://github.com/terryyin/lizard/stargazers) 🦎  
   Cyclomatic complexity analyzer for C/C++, Java, Python, JavaScript, Go, and Rust.
 
 ---
 
 ### 🗄️ Engineering Data Warehouses & Infrastructure
 
-* **[Apache Airflow](https://github.com/apache/airflow)** [![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers) ✈️  
+* **[Apache Airflow](https://github.com/apache/airflow)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers) ✈️  
   Programmatic workflow orchestration engine scheduling dev data extraction pipelines.
 
-* **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** [![GitHub stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers) ⚡  
+* **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** [![GitHub_Stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers) ⚡  
   Ultra-fast column-oriented analytical database ideal for engineering telemetry & log aggregations.
 
-* **[DuckDB](https://github.com/duckdb/duckdb)** [![GitHub stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers) 🦆  
+* **[DuckDB](https://github.com/duckdb/duckdb)** [![GitHub_Stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers) 🦆  
   Embeddable analytical SQL database powering local engineering metrics processing.
 
-* **[Airbyte](https://github.com/airbytehq/airbyte)** [![GitHub stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers) 🔌  
+* **[Airbyte](https://github.com/airbytehq/airbyte)** [![GitHub_Stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers) 🔌  
   Data integration engine with pre-built GitHub, GitLab, and Jira connectors.
 
-* **[Dagster](https://github.com/dagster-io/dagster)** [![GitHub stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social&color=white)](https://github.com/dagster-io/dagster/stargazers) 🪵  
+* **[Dagster](https://github.com/dagster-io/dagster)** [![GitHub_Stars](https://img.shields.io/github/stars/dagster-io/dagster?style=social&color=white)](https://github.com/dagster-io/dagster/stargazers) 🪵  
   Data asset orchestrator for reliable dev-data platform pipelines.
 
-* **[OpenMetadata](https://github.com/open-metadata/OpenMetadata)** [![GitHub stars](https://img.shields.io/github/stars/open-metadata/OpenMetadata?style=social&color=white)](https://github.com/open-metadata/OpenMetadata/stargazers) 🏷️  
+* **[OpenMetadata](https://github.com/open-metadata/OpenMetadata)** [![GitHub_Stars](https://img.shields.io/github/stars/open-metadata/OpenMetadata?style=social&color=white)](https://github.com/open-metadata/OpenMetadata/stargazers) 🏷️  
   Open data governance framework cataloging engineering data assets and schemas.
 
 ---
 
 ### 📈 Visualization & BI Tools
 
-* **[Grafana](https://github.com/grafana/grafana)** [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) 📊  
+* **[Grafana](https://github.com/grafana/grafana)** [![GitHub_Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) 📊  
   Leading operational visualization dashboard powering Apache DevLake and DORA metric views.
 
-* **[Apache Superset](https://github.com/apache/superset)** [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) 🌌  
+* **[Apache Superset](https://github.com/apache/superset)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) 🌌  
   Modern enterprise business intelligence platform for SQL-driven engineering reporting.
 
-* **[Metabase](https://github.com/metabase/metabase)** [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) 📈  
+* **[Metabase](https://github.com/metabase/metabase)** [![GitHub_Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) 📈  
   Simple self-service BI dashboard tool for engineering leaders and management.
 
-* **[Evidence](https://github.com/evidence-dev/evidence)** [![GitHub stars](https://img.shields.io/github/stars/evidence-dev/evidence?style=social&color=white)](https://github.com/evidence-dev/evidence/stargazers) 📝  
+* **[Evidence](https://github.com/evidence-dev/evidence)** [![GitHub_Stars](https://img.shields.io/github/stars/evidence-dev/evidence?style=social&color=white)](https://github.com/evidence-dev/evidence/stargazers) 📝  
   Code-based markdown BI tool for generating version-controlled engineering health reports.
 
 ---
@@ -289,7 +289,7 @@ The Global Engineering Intelligence & Value Stream Management (VSM) market is es
 
 1. **Fork** the repository. 🔀
 2. Add or update entries in `README.md` keeping the standard tabular format.
-3. Ensure open-source projects include star count badges linked to `/stargazers`.
+3. Ensure open-source projects include Stars_Count badges linked to `/stargazers`.
 4. Submit a **Pull Request** with a brief summary of your addition. 📩
 
 ---
